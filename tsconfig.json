@@ -23,7 +23,7 @@
     "assets/scripts/**/*.tsx",
     "assets/scripts/**/*.vue",
     "assets/scripts/plugin-scripts.js",
-    "assets/scripts/admin-scripts.js",
+    "assets/scripts/admin-scripts.js"
   ],
   "exclude": []
 }
